@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "mcp__notion__notion-fetch",
+      "Bash(python *)",
+      "mcp__notion__notion-update-page",
+      "mcp__notion__notion-query-data-sources",
+      "mcp__notion__notion-search",
+      "mcp__notion__notion-create-pages",
+      "mcp__notion__notion-query-database-view"
+    ]
+  },
+  "enabledMcpjsonServers": [
+    "notion"
+  ]
+}
